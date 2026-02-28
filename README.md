@@ -1,2 +1,3 @@
 # telco-churn-analysis
-End-to-end customer churn analysis with EDA and baseline modeling
+End-to-end customer churn analysis with EDA and baseline modeling.
+Data from Kaggle.com.
